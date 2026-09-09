@@ -53,4 +53,4 @@ print('\nPopped node:')
 print(my_stack.pop().value)
 
 print('\nStack after pop():')
-my_stack.print_stack()
+my_stack.print_stack()#printing the final stack
