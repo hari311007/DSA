@@ -34,6 +34,6 @@ if __name__=="__main__":
     except IndexError as e:
      print(f"Push failed safely: {e}")
 
-    # The program keeps running normally afterward
+    # The program keeps running normaly afterward
     print("Program continues...")
     
